@@ -1,0 +1,1 @@
+Olá! Neste repositório, armazenarei os meus projetos do curso de Engenharia de Dados da GrowDev junto a Arezzo&CO.
